@@ -13,4 +13,4 @@ function sortPrint(x,y)
 }
 var y = [1,2,678,4,6,46,7];
 //sortPrint(true, y);
-sortPrint(false, y);
+sortPrint(false, y); 
